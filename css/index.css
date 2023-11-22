@@ -7,6 +7,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
+    height: 100%;
 }
    
 
@@ -496,6 +497,32 @@ font-family: 'Averia Serif Libre';
   background-color: black;
   background-image: none;
 
+}
+
+.merch1 {
+  background-color: black;
+  background-image: none;
+}
+.sinopsis1 {
+  background-color: black;
+  background-image: none;
+}
+.sinopsis2 {
+  background-color: black;
+  background-image: none;
+}
+.sinopsis3 {
+  background-color: black;
+  background-image: none;
+}
+
+.sinopsis4 {
+  background-color: black;
+  background-image: none;
+}
+
+.footer-index {
+  padding-top: 10%;
 }
 
 }
